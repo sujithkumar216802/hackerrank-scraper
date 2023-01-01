@@ -1,0 +1,19 @@
+{
+  "name": "hackerrank-scraper",
+  "version": "1.0.0",
+  "description": "Hackerrank scraper is a simple tool written in node js to scrap the code submitted during a contest. This tool is meant for contest creators who want to download the submitted code and run plagiarism test on the code.",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anudeepreddy/hackerrank-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anudeepreddy/hackerrank-scraper/issues"
+  },
+  "homepage": "https://github.com/anudeepreddy/hackerrank-scraper#readme"
+}
